@@ -1,0 +1,4 @@
+# Ignore jupyter notebook checkpoints
+.ipynb_checkpoints
+# Do not upload data folder
+data/
